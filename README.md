@@ -1,2 +1,21 @@
-Projet 1 de la formation "Développeur web junior" chez OpenClassrooms.
-Le projet consistait à réaliser un site vitrine en HTML et CSS à partir d'une maquette.
+# Description
+WebAgency project for the "Web Developer" formation by OpenClassrooms.  
+The project consisted of creating a showcase website in HTML and CSS from a mockup.
+
+## Link
+You can view the project on the GitHub page here :  
+https://matthieuclio.github.io/Formation-dev-web-WebAgency-p1/
+
+## Setup
+No particular prerequisites  
+...
+
+## Commands
+No special command to do  
+...
+
+## Architecture
+- README.md  
+- index.html  
+- css/  
+- images/
