@@ -47,3 +47,9 @@ No special command to do
 ├── css/  
 │   └── style.css  
 └── images/  
+
+## Areas for improvement
+- Accessibility improvements (ARIA, contrast)  
+- SEO optimization (meta tags, Hn structure)  
+- CSS refactoring (BEM or other methodology)  
+- Adding lightweight CSS animations  
