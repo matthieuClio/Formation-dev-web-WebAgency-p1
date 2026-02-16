@@ -52,4 +52,8 @@ No special command to do
 - Accessibility improvements (ARIA, contrast)  
 - SEO optimization (meta tags, Hn structure)  
 - CSS refactoring (BEM or other methodology)  
-- Adding lightweight CSS animations  
+- Adding lightweight CSS animations
+
+## Author
+Project by Matthieu Clio  
+Full stack JavaScript web developer
