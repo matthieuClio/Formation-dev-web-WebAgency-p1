@@ -41,7 +41,7 @@ No special command to do
 ...
 
 ## Architecture
-.
+.  
 ├── README.md  
 ├── index.html  
 ├── css/  
